@@ -1,0 +1,3 @@
+# Care-Connect-Prototype
+An app that puts in a central place the details necessary for kids who need special care and attention. For example, the details of baby sitters, doctors , schools and activities for the kids can be searched through the app. The app will also have the feature of crowd-sourcing , i.e the people can contribute to the app by providing details they know.
+This app will be a sort-of cross between WebMD( Doctors, opinions, etc) , Craigslist( babysitters can list their ads, forums can be pinned) and github ( crowd-source for information regarding activities, events, experiences, etc) - but specifically target to needs and care of special kids.
